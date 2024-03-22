@@ -1,5 +1,5 @@
 # SWE_formative
 
-##Design
+## Design
 
-![Screenshot](Figma Formative.png)
+![Screenshot](Formative Figma.png)
