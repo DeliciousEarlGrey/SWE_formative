@@ -2,4 +2,4 @@
 
 ## Design
 
-![Screenshot](Formative Figma.png)
+![Screenshot](Formative_Figma.png)
