@@ -13,3 +13,7 @@ Find the prototype [here](https://www.figma.com/proto/cOROLu2sPIADhuO4RTE9Ao/Unt
 ## Testing
 
 ![Test Outcomes](test.png)
+
+## Kanban
+
+![kanban](kanban.png)
