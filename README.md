@@ -1,4 +1,4 @@
-# SWE_formative
+# Software Engineering Formative
 
 ## Design
 
